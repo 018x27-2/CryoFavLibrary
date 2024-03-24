@@ -1,5 +1,5 @@
--- New example script written by wally
--- You can suggest changes with a pull request or something
+-- Made for my bro Cryo!
+-- By vrxzp
 
 local repo = 'https://raw.githubusercontent.com/018x27-2/CryoFavLibrary/main/'
 
